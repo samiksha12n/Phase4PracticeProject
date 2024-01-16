@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "FG5U1Ux9LscN4ywIb4j5dBBPfhjG/uFPgi7+D7SGoP3lvi5Lys1r5eeMmcxK6YGEXkprWTGqn2LNWxgzDS1o1w==",
+  "success": true,
+  "projectFilePath": "D:\\GitAssignment\\Phase 4\\Phase4PracticeProject\\PracticeProjectTest\\PracticeProjectTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samiksha\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\Samiksha\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\Samiksha\\.nuget\\packages\\nunit\\4.0.1\\nunit.4.0.1.nupkg.sha512",
+    "C:\\Users\\Samiksha\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\Samiksha\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
